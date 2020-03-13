@@ -1041,7 +1041,7 @@ int main(int argc, char** argv)
 		//cout << "检测到的特征点:" << i << " " << features[0].keypoints[i].pt << endl;
 	//}
 	//drawKeypoints(imgs[0], features[0].keypoints, imgs[0], Scalar(255, 0, 255), DrawMatchesFlags::DRAW_OVER_OUTIMG);
-	//imwrite("原始特征点1.bmp", imgs[0]);
+	//imwrite("原始特征点.bmp", imgs[0]);
 	//drawKeypoints(imgs[1], features[1].keypoints, imgs[1], Scalar(255, 0, 255), DrawMatchesFlags::DRAW_OVER_OUTIMG);
 	//imwrite("原始特征点2.bmp", imgs[1]);
 	drawKeypoints(imgs[0], features[0].keypoints, imgs[0], Scalar(255, 0, 255), DrawMatchesFlags::DRAW_OVER_OUTIMG);
