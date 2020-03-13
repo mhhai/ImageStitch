@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "恢复相机内参数", "恢复相机内参数\恢复相机内参数.vcxproj", "{E94FB3A2-B6C6-4B5B-9BD2-BEC7BAD703A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E94FB3A2-B6C6-4B5B-9BD2-BEC7BAD703A9}.Debug|x64.ActiveCfg = Debug|x64
+		{E94FB3A2-B6C6-4B5B-9BD2-BEC7BAD703A9}.Debug|x64.Build.0 = Debug|x64
+		{E94FB3A2-B6C6-4B5B-9BD2-BEC7BAD703A9}.Debug|x86.ActiveCfg = Debug|Win32
+		{E94FB3A2-B6C6-4B5B-9BD2-BEC7BAD703A9}.Debug|x86.Build.0 = Debug|Win32
+		{E94FB3A2-B6C6-4B5B-9BD2-BEC7BAD703A9}.Release|x64.ActiveCfg = Release|x64
+		{E94FB3A2-B6C6-4B5B-9BD2-BEC7BAD703A9}.Release|x64.Build.0 = Release|x64
+		{E94FB3A2-B6C6-4B5B-9BD2-BEC7BAD703A9}.Release|x86.ActiveCfg = Release|Win32
+		{E94FB3A2-B6C6-4B5B-9BD2-BEC7BAD703A9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {333411DD-0561-481F-A68F-E96B23649FDC}
+	EndGlobalSection
+EndGlobal
